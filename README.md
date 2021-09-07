@@ -1,2 +1,45 @@
 # https-souvikfirst.000webhostapp.com-Supper-20IOT-20controler.html
-&lt;!DOCTYPE html> &lt;html>     &lt;head>         &lt;title>SUPPER IOT: Presented-By Souvik&lt;/title>     &lt;/head>     &lt;center>         &lt;body style="background-image: url(Background\ image\ 3.JPG); background-size:cover;">             &lt;p>&lt;h1 style="rgb(210, 30, 30); color: darkblue">IOT Automation&lt;/h1>&lt;/p>             &lt;div style="background-color: #246466; background-size:cover;">             &lt;h2 style="color: rgb(226, 43, 52)">LED Light Controls&lt;/h2>             &lt;iframe src="https://souvikfirst.000webhostapp.com/DATABASE.php" width="300px" height="150px">&lt;/iframe>             &lt;/div>             &lt;h1 style="color: darkblue;">&lt;div>Click ON and OFF button, and check the Control box&lt;/div>&lt;/h1>             &lt;div style="float:left">             &lt;h3 style="color: darkorchid;">Light1&lt;/h3>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p1=1">&lt;button>ON&lt;/button>&lt;/a>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p1=0">&lt;button>OFF&lt;/button>&lt;/a>              &lt;h3 style="color: darkorchid;">Light2&lt;/h3>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p2=1">&lt;button>ON&lt;/button>&lt;/a>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p2=0">&lt;button>OFF&lt;/button>&lt;/a>              &lt;h3 style="color: darkorchid;">Light3&lt;/h3>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p3=1">&lt;button>ON&lt;/button>&lt;/a>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p3=0">&lt;button>OFF&lt;/button>&lt;/a>              &lt;/div>             &lt;div style="float:right">                 &lt;h3 style="color: darkorchid;">Light4&lt;/h3>                 &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p4=1">&lt;button>ON&lt;/button>&lt;/a>                 &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p4=0">&lt;button>OFF&lt;/button>&lt;/a>                      &lt;h3 style="color: darkorchid;">Light5&lt;/h3>                 &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p5=1">&lt;button>ON&lt;/button>&lt;/a>                 &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p5=0">&lt;button>OFF&lt;/button>&lt;/a>                  &lt;h3 style="color: darkorchid;">Light6&lt;/h3>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p6=1">&lt;button>ON&lt;/button>&lt;/a>             &lt;a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p6=0">&lt;button>OFF&lt;/button>&lt;/a>                  &lt;/div>         &lt;/body>     &lt;/center>  &lt;/html>
+&lt;<!DOCTYPE html>
+<html>
+    <head>
+        <title>SUPPER IOT: Presented-By Souvik</title>
+    </head>
+    <center>
+        <body style="background-image: url(Background\ image\ 3.JPG); background-size:cover;">
+            <p><h1 style="rgb(210, 30, 30); color: darkblue">IOT Automation</h1></p>
+            <div style="background-color: #246466; background-size:cover;">
+            <h2 style="color: rgb(226, 43, 52)">LED Light Controls</h2>
+            <iframe src="https://souvikfirst.000webhostapp.com/DATABASE.php" width="300px" height="150px"></iframe>
+            </div>
+            <h1 style="color: darkblue;"><div>Click ON and OFF button, and check the Control box</div></h1>
+            <div style="float:left">
+            <h3 style="color: darkorchid;">Light1</h3>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p1=1"><button>ON</button></a>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p1=0"><button>OFF</button></a>
+
+            <h3 style="color: darkorchid;">Light2</h3>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p2=1"><button>ON</button></a>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p2=0"><button>OFF</button></a>
+
+            <h3 style="color: darkorchid;">Light3</h3>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p3=1"><button>ON</button></a>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p3=0"><button>OFF</button></a>
+
+            </div>
+            <div style="float:right">
+                <h3 style="color: darkorchid;">Light4</h3>
+                <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p4=1"><button>ON</button></a>
+                <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p4=0"><button>OFF</button></a>    
+
+                <h3 style="color: darkorchid;">Light5</h3>
+                <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p5=1"><button>ON</button></a>
+                <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p5=0"><button>OFF</button></a>
+
+                <h3 style="color: darkorchid;">Light6</h3>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p6=1"><button>ON</button></a>
+            <a href="https://souvikfirst.000webhostapp.com/DATABASEUPDATE.php?p6=0"><button>OFF</button></a>
+    
+            </div>
+        </body>
+    </center> 
+</html>
