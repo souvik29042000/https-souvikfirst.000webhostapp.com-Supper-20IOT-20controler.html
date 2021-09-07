@@ -1,5 +1,4 @@
-# https-souvikfirst.000webhostapp.com-Supper-20IOT-20controler.html
-&lt;<!DOCTYPE html>
+<!DOCTYPE html>
 <html>
     <head>
         <title>SUPPER IOT: Presented-By Souvik</title>
